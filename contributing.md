@@ -197,3 +197,6 @@ Use the button in the Quick Start section.
 ---
 
 *Project Zomboid · Updated 2026-11-14 · Shared under the MIT License*
+
+
+Updated 2026-11-14.
